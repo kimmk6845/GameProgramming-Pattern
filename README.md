@@ -30,7 +30,7 @@
 
 - 대량 데이터를 찍어내기 위해 사용하는 패턴 (
 
-<span style = 'background-color:#fff5b1'>최적화</span>
+<span style="color:yellow">최적화</span>
 
 와 관련)
 
