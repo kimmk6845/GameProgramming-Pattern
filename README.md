@@ -181,4 +181,4 @@
 
 # Sequence pattern (순서 패턴)
 
-- 이중 버퍼(Double buffering)
+## 이중 버퍼(Double buffering)
